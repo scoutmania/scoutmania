@@ -1,7 +1,7 @@
 ## Hello, I'm Scout(mania)! 
 I am very passionate about all sorts of tech, and have been ever since I was a child. I was very deep into iOS & Mac OS internals at first, but my interest has shifted to Linux & BSD. 
 
-I enjoy using virtualization software (mainly VirtualBox) to explore & experiment with different OSes. I currently have 3 VMs: running Debian, FreeBSD, and Artix. 
+I enjoy using virtualization software (mainly VirtualBox) to explore & experiment with different OSes. I currently have 3 VMs: running Debian, DragonflyBSD, and Artix. 
 
 **OSes** | [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#) [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#) [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 
